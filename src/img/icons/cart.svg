@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.021" height="24.964" viewBox="0 0 35.021 24.964">
+    <defs>
+        <style>
+            .cls-1{fill:#2d5541}
+        </style>
+    </defs>
+    <g id="Cart" transform="translate(-86.96 -114.222)">
+        <g id="Group_1498" transform="translate(91.699 114.222)">
+            <path id="Path_3377" d="M126.5 133.573h-13.793a2.2 2.2 0 0 1-2.131-1.638l-5.412-15.561a.146.146 0 0 0-.142-.112h-3.112a1.021 1.021 0 1 1 0-2.041h3.112a2.179 2.179 0 0 1 2.113 1.624l5.411 15.56a.164.164 0 0 0 .16.126H126.5a1.021 1.021 0 0 1 0 2.041z" class="cls-1" transform="translate(-100.89 -114.222)"/>
+        </g>
+        <g id="Group_1499" transform="translate(96.53 117.118)">
+            <path id="Path_3378" d="M135.876 135.776h-16.264l-4.52-13.04h23.166a2.284 2.284 0 0 1 2.2 2.9l-2.383 8.472a2.292 2.292 0 0 1-2.199 1.668zm-14.811-2.041h14.811a.244.244 0 0 0 .234-.177l2.383-8.472a.243.243 0 0 0-.234-.309h-20.3z" class="cls-1" transform="translate(-115.092 -122.736)"/>
+        </g>
+        <g id="Group_1500" transform="translate(103.051 134.923)">
+            <circle id="Ellipse_5" cx="2.131" cy="2.131" r="2.131" class="cls-1"/>
+        </g>
+        <g id="Group_1501" transform="translate(113.047 134.923)">
+            <circle id="Ellipse_6" cx="2.131" cy="2.131" r="2.131" class="cls-1"/>
+        </g>
+        <g id="Group_1502" transform="translate(86.96 120.229)">
+            <path id="Path_3379" d="M95.3 133.923h-7.319a1.021 1.021 0 0 1 0-2.041H95.3a1.021 1.021 0 0 1 0 2.041z" class="cls-1" transform="translate(-86.96 -131.882)"/>
+        </g>
+        <g id="Group_1503" transform="translate(88.977 126.326)">
+            <path id="Path_3380" d="M101.23 151.846h-7.321a1.021 1.021 0 0 1 0-2.041h7.321a1.021 1.021 0 1 1 0 2.041z" class="cls-1" transform="translate(-92.888 -149.805)"/>
+        </g>
+        <g id="Group_1504" transform="translate(87.921 123.278)">
+            <path id="Path_3381" d="M98.126 142.884H90.8a1.021 1.021 0 1 1 0-2.041h7.321a1.021 1.021 0 1 1 0 2.041z" class="cls-1" transform="translate(-89.784 -140.843)"/>
+        </g>
+    </g>
+</svg>
